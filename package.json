@@ -1,0 +1,14 @@
+{
+  "name": "lr-app-hello-world",
+  "version": "0.0.10",
+  "author": "Du Wei <hezedu@hotmail.com>",
+  "main": "index.js",
+
+  "lrName": "hello world",
+  "lrIcon" : "animals-gnu.png",
+  
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:linux-remote/server.git"
+  }
+}
